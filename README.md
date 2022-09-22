@@ -3,6 +3,8 @@ Scripts used for plottings of the study: Implementation and evaluation of irriga
 
 Data used in scripts could be found here: Yao, Yi (2022): Data_2022_Yao_etal.7z. figshare. Dataset. https://doi.org/10.6084/m9.figshare.20711392.v1 
 
+For any questions, please contact yi.yao@vub.be
+
 **Python version: 3.6**
 
 

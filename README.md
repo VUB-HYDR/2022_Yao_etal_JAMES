@@ -1,7 +1,7 @@
 # 2022_Yao_etal_JAMES
 Scripts used for plottings of the study: Implementation and evaluation of irrigation techniques in the Community Land Model
 
-Data used in scripts could be found here: https://figshare.com/account/home#/projects/143676
+Data used in scripts could be found here: Yao, Yi (2022): Data_2022_Yao_etal.7z. figshare. Dataset. https://doi.org/10.6084/m9.figshare.20711392.v1 
 
 **Python version: 3.6**
 
